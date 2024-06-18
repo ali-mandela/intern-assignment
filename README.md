@@ -21,6 +21,13 @@ cd intern-assignment
 npm install
 npm rundev 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.```
+
+## Snapshots
+Here are some snapshots:
+![Uploading Screenshot 2024-06-18 1814212.png…]()
+
+![Uploading Screenshot 2024-06-18 181405.png…]()
+
 
 
